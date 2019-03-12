@@ -4,7 +4,7 @@ This project is an exploration and visualization of, and commentary on, data per
 
 ## Datasets
 
-This analysis makes use of four datasets provided by WorldBank.org and downloaded on January 25, 2018.
+This analysis makes use of four datasets provided by WorldBank.org.
 The specific URLs are linked below:
 
 [Agriculture (% of GDP)](http://data.worldbank.org/indicator/NV.AGR.TOTL.ZS)<br>
